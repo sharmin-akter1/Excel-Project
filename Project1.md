@@ -12,7 +12,7 @@ Excited to share my latest interactive Business Dashboard built using Excel tool
 
 - dashboard <a href="https://github.com/sharmin-akter1/Excel-Project/blob/main/Screenshot%20.png">Dashboard View</a>
 
-Business insights:
+🔹 Business insights:
 a)Electronics is the best-performing category, generating the highest sales and profit. It is the main revenue and profit driver of the business.
 b)The South region generates the highest profit among all regions. It represents the most lucrative market for the business.
 c)Sales peak around April and mid-year periods. A noticeable decline occurs in June, showing seasonal demand fluctuation.
